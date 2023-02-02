@@ -1,0 +1,19 @@
+#header {
+    background-image: black;
+    background-size: 300px;
+    color: white;
+    font: size 300px;
+    text-align: center;
+    padding: 0 px;
+}
+
+.menu li {
+    display: inline-block;
+    margin-right: 15px;
+    color: white;
+    font: size 300px;
+}
+
+#sort {
+    font-style: italic;
+}

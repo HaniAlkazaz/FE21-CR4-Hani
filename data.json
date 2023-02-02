@@ -1,0 +1,37 @@
+let movies = `[
+    {
+    "name": "Avatar",
+    "Image": "img/Avatar.jpg",
+    "like": 0,
+    "description":"Jake Sully lives with his newfound family formed on the extrasolar moon Pandora. Once a familiar threat returns to finish what was previously started."
+}, {
+    "name": "Viking",
+    "Image": "img/viking.jpg",
+    "like": 0,
+    "description":"Vikings transports us to the brutal and mysterious world of Ragnar Lothbrok, a Viking warrior and farmer who yearns to explore--and raid--the distant shores across the ocean."
+},{
+    "name": "ShawshankRedem",
+    "Image": "img/ShawshankRedem.jpg",
+    "like": 0,
+    "description":"Over the course of several years, two convicts form a friendship, seeking consolation and, eventually, redemption through basic compassion."
+
+}, {
+    "name": "Top Gun",
+    "Image": "img/Top Gun.jpg",
+    "like": 0,
+    "description":"After thirty years, Maverick is still pushing the envelope as a top naval aviator, but must confront ghosts of his past when he leads ."
+
+},{
+    "name": "House of the Dragon",
+    "Image": "img/drakon.jpg",
+    "like": 0,
+    "description":"An internal succession war within House Targaryen at the height of its power, 172 years before the birth of Daenerys Targaryen."
+
+},{
+
+    "name": "Jocker",
+    "Image": "img/jocker.jpg",
+    "like": 0,
+    "description":"A mentally troubled stand-up comedian embarks on a downward spiral that leads to the creation of an iconic villain."
+    }
+   ]`;
